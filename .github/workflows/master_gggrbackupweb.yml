@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'GGGRbackupweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_08EDE30CD5E242348B9875FE1BEBB778 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D55F972FDFBD4E30A81EF542FC6A7783 }}
           package: .
